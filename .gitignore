@@ -1,0 +1,27 @@
+# Foundry build artifacts
+out/
+cache/
+
+# Local deployment artifacts
+broadcast/
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+.logs/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Solidity coverage reports
+lcov.info
+coverage/
