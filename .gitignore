@@ -25,3 +25,10 @@ Thumbs.db
 # Solidity coverage reports
 lcov.info
 coverage/
+
+# Node.js dependencies
+node_modules/
+frontend/node_modules/
+
+# Frontend production build
+frontend/dist/
